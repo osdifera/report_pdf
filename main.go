@@ -1,4 +1,4 @@
-package main
+package maine
 
 import (
 	"fmt"
@@ -11,7 +11,7 @@ import (
 	"github.com/johnfercher/maroto/pkg/props"
 )
 
-func main() {
+func maine() {
 	begin := time.Now()
 
 	//darkGrayColor := getDarkGrayColor()
